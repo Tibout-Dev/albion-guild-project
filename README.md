@@ -4,3 +4,5 @@ Here is my first attemp at building a pure HTML/CSS website for a guild we manag
 I planned to add multiple tools, but this project was abandoned. Anyway I learned some basic stuff, so it's all good!
 
 This was one of my first project that I did before starting any lessons.
+
+Feel free to check the result! [Albion Guild Poject](https://tibout-dev.github.io/albion-guild-project/)
